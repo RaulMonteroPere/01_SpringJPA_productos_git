@@ -22,7 +22,7 @@ public class ProductosJpaController {
 	
 	@GetMapping("/index")
 	public String inicio(Model model) {
-		model.addAttribute("mensaje","Lidia ");
+		model.addAttribute("mensaje","Lidia Capita ");
 		
 		return "index";
 		
