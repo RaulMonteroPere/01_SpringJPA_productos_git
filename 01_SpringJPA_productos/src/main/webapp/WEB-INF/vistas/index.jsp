@@ -9,8 +9,10 @@
 </head>
 <body>
 	<h2> Bienvenido ${mensaje} </h2>
-	<h3>Productos de Lidia</h3>
-	<h3>Productos de Piluca</h3>
+	<h3>Atleti campeon de Liga esta tarde, ahí lo dejo eh??</h3>
+	<h3>Atleti campeon de Liga esta tarde, ahí lo dejo eh??</h3>
+	<h3>Atleti campeon de Liga esta tarde, ahí lo dejo eh??</h3>
+	
 	
 	<a href="/producto/verUno/3">Ver un producto</a><br><br>
 	<a href="/producto/verTodos">Ver todos los productos</a>
