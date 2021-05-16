@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Indice productos</title>
+<title>Indice productos de Lidia Martinez - Prueba Proyecto RISKADVENTURE</title>
 </head>
 <body>
 	<h2> Bienvenido ${mensaje} </h2>
